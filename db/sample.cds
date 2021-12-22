@@ -6,4 +6,5 @@ entity Risks {
         priority  : String(5);
         name : String (10);
         city :String (10);
+        state :String (10);
 }
