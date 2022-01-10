@@ -7,4 +7,5 @@ entity Risks {
         name : String (10);
         city :String (10);
         State :String (10);
+        Country :String (10);
 }
